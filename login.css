@@ -1,0 +1,165 @@
+img[src="./Learn Skill.jpg"] {
+  width: 150px;
+  height: 80px;
+  margin-top: -35px;
+}
+.navigation {
+  justify-content: center;
+  flex-flow: row-wrap;
+  background-color: #004aad;
+  padding: 25px;
+  margin-top: -10px;;
+  margin-left: -10px;
+  margin-right: -20px;
+  word-spacing: 100px;
+  box-shadow: #011127 0px 0px 5px ;
+}
+a[href] {
+  color:#ecf7fd;
+  font-size: larger;
+  margin-left: 3cm;
+  text-decoration: none;
+}
+a[href]:hover {
+  color: #0471ff;
+}
+body {
+  background-color: #004aad;
+}
+
+.form {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 150px;
+  margin-top: -40%;
+}
+fieldset {
+height: 450px;
+width: 350px;
+display: flex;
+justify-content: center;
+background-color: #ecf7fd;
+border-radius: 5%;
+box-shadow:#011127 5px 5px 7px;
+}
+.login {
+color: #004aad;
+font-size: 22px;
+font-family: 'Times New Roman', Times, serif;
+margin-top: 50px;
+margin-bottom: 20px;
+display: flex;
+justify-content: center;
+font-weight:bold;
+}
+.email {
+  color: #004aad;
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top:20px ;
+  margin-bottom: 20px; 
+  display: flex;
+  justify-content: space-around;
+  }
+.password { 
+ color: #004aad;
+ font-size: 17px;
+ font-family: 'Times New Roman', Times, serif;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ margin-right: 6px;
+ display: flex;
+ justify-content:space-around;
+}
+ .box {
+  margin-left: 10px;
+  background: transparent;
+  border-bottom: 1px solid #004aad;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding: 8px;
+}
+.remember {
+  color: #004aad;
+  margin-top: 10%;
+  margin-bottom: 3px;
+  margin-left: 27%;
+  font-size: 13px;
+}
+.remember:hover {
+  color:#0471ff;
+}
+.login2{
+  color:#004aad;
+  text-decoration: underline;
+  font-size: 12px; 
+  justify-content:center;
+  margin-top: 5px;
+  margin-right: 30%;
+}
+.login2:hover {
+  color: #0471ff;
+}
+
+.btn1 {
+display: flex;
+justify-content: center;
+}
+.btn2 {
+display: flex;
+justify-content: center;
+color: #ecf7fd;
+background: #004aad;
+padding:10px 60px;
+border: none;
+border-radius: 5%;
+}
+.btn2:hover {
+background: #0471ff;
+}
+.quote {
+display: flex;
+justify-content: flex-start;
+margin-top: 4%;
+margin-left: 200px;
+margin-right: 55%;
+color: #ecf7fd;
+font-size: 28px;
+}
+.wanita-formal {
+width: auto;
+height: 500px;
+display: flex;
+justify-content: flex-start;
+margin-top:-45px;
+margin-left: 185px;
+margin-right: 50%;
+}
+.contact {
+  margin-top: 30%;
+}
+.kontak {
+  background-color: #004aad;
+  color: #ecf7fd;
+  padding-top: 3px;
+  padding-bottom: 50px;
+  margin-top: 300px;
+  box-shadow: #011127 0px 0px 5px 0px;
+  margin-bottom: -10px;
+  margin-left: -10px;
+  margin-right: -20px;
+
+}
+.kontak2 {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 5cm;
+  margin-left: 5cm;
+}
+.kontak2:hover {
+  color:#0471ff;
+}
+.tag {
+  margin-top: 10%;
+}
